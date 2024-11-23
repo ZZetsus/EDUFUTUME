@@ -11,3 +11,4 @@ gran parte de la lógica y el código del programa junto con mis compañeros de 
 -Enzo Junior De Leon Pineda<br>
 -Andrés David Olea Guzman<br>
 -Vanessa Paola Romero Domínguez<br>
+-Me
