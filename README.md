@@ -10,7 +10,8 @@ The project's program was developed in NetBeans 8.2 JDK-8u111, using an Oracle d
 # Créditos
 Este proyecto fue realizado el primer semestre (2022-1) de mi carrera universitaria. colaboré en su momento en gran parte de la lógica y el código del programa junto con mis compañeros de clases:<br>
 
-This project was carried out in the first semester (2022-1) of my university career. At that time, I collaborated significantly on the logic and the code of the program along with my classmates:<br>
+This project was carried out in the first semester (2022-1) of my university career. At that time, I collaborated significantly on the logic and the code of the program along with my classmates:<br><br>
+
 -Xavier Andrés De La Hoz Salas<br>
 -Enzo Junior De Leon Pineda<br>
 -Andrés David Olea Guzman<br>
