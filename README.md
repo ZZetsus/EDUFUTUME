@@ -6,10 +6,8 @@ el programa del proyecto se realizó en NetBeans 8.2 JDK-8u111, se utilizó base
 # Créditos
 Este proyecto fue realizado el primer semestre (2022-1)
 de mi carrera universitaria. colaboré en su momento en 
-gran parte de la lógica y el código del programa. 
-Junto con mis compañeros de clases:
--XAVIER ANDRÉS DE LA HOZ SALAS
--ENZO JUNIOR DE LEON PINEDA
--ANDRES DAVID OLEA GUZMAN
--VANESSA PAOLA ROMERO DOMÍNGUEZ
-
+gran parte de la lógica y el código del programa junto con mis compañeros de clases:<br>
+-Xavier Andrés De La Hoz Salas<br>
+-Enzo Junior De Leon Pineda<br>
+-Andrés David Olea Guzman<br>
+-Vanessa Paola Romero Domínguez<br>
