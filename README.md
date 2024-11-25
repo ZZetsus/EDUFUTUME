@@ -17,6 +17,7 @@ Este proyecto fue realizado el primer semestre (2022-1) de mi carrera universita
 <br>
 <br>
 {English}
+<br>
 This project was carried out in the first semester (2022-1) of my university career. At that time, I collaborated significantly on the logic and the code of the program along with my classmates:
 <br>
 <br>
